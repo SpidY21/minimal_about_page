@@ -8,7 +8,7 @@ The primary goal of this project is to predict customer churn—whether a custom
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SpidY21/Telecome_churn_prediction)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="image/telecome.webp"/></center>
 
 ---
 ### Bankruptcy Risk Prediction
@@ -21,7 +21,7 @@ This project contains information about various risk factors related to companie
 - `0.5` represents a moderate risk.
 - `0` represents a low risk.
 
-<center><img src="images/financial_modeling.jpg"/></center>
+<center><img src="image/Bankruptcy.webp"/></center>
 
 ---
 ### Health Insurance Charges
@@ -30,7 +30,7 @@ This project contains information about various risk factors related to companie
 
 This project contains information about individuals' health, lifestyle, and demographic factors that could influence their health insurance charges. The project can be used to analyze and predict the cost of health insurance for an individual based on several key factors, such as age, sex, BMI, number of children, smoking status, and region.
 
-<center><img src="https://camo.githubusercontent.com/a085b4fe60690252b8aa2de917c53fc3f63aec21aafea21c8f1ecb543d2c44cb/68747470733a2f2f7777772e616c74756d696e74656c6c6967656e63652e636f6d2f6173736574732f74696d652d7365726965732d70726564696374696f6e2d7573696e672d6c73746d2d646565702d6e657572616c2d6e6574776f726b732f73696e776176655f66756c6c5f7365712e706e67"/></center>
+<center><img src="image/health.png"/></center>
 
 ---
 ### Resume Classification
@@ -39,7 +39,7 @@ This project contains information about individuals' health, lifestyle, and demo
 
 It is slightly simplified implementation of Kim's Convolutional Neural Networks for Sentence Classification paper in Tensorflow.
 
-<center><img src="images/text_classification.png"/></center>
+<center><img src="image/resume.png"/></center>
 
 ---
 ### Oil Price Prediction
@@ -48,7 +48,7 @@ It is slightly simplified implementation of Kim's Convolutional Neural Networks 
 
 The volatility and complexity of global oil markets make predicting oil prices a challenging yet crucial task for various stakeholders, including investors, policymakers, and industry professionals. In recent years, data science has emerged as a powerful tool to analyze historical trends, identify patterns, and build predictive models to forecast future oil prices.
 
-<center><img src="images/machine_learning.jpg"/></center>
+<center><img src="image/oil.jpg"/></center>
 
 ---
 
