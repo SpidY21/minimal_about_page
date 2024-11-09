@@ -48,7 +48,7 @@ It is slightly simplified implementation of Kim's Convolutional Neural Networks 
 
 The volatility and complexity of global oil markets make predicting oil prices a challenging yet crucial task for various stakeholders, including investors, policymakers, and industry professionals. In recent years, data science has emerged as a powerful tool to analyze historical trends, identify patterns, and build predictive models to forecast future oil prices.
 
-<center><img src="image/oil.jpg"/></center>
+<center><img src="image/oil.png"/></center>
 
 ---
 
