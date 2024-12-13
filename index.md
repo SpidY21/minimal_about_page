@@ -5,8 +5,7 @@
 ### Telecome Churn Prediction
 
 The primary goal of this project is to predict customer churn—whether a customer will leave the telecom provider (churn) or continue using the service. Predicting churn allows the company to retain customers by taking proactive steps to improve their satisfaction and engagement.
-####
-[App Link](https://telecomechurnprediction-7prokjhha4796ddws2pcxj.streamlit.app/)
+#### [App Link](https://telecomechurnprediction-7prokjhha4796ddws2pcxj.streamlit.app/)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SpidY21/Telecome_churn_prediction)
 
@@ -22,8 +21,7 @@ This project contains information about various risk factors related to companie
 - `1` represents a high risk.
 - `0.5` represents a moderate risk.
 - `0` represents a low risk.
-####
-[App Link](https://bankruptcy-jn5klvcyowqer75ncuapppppp.streamlit.app/)
+#### [App Link](https://bankruptcy-jn5klvcyowqer75ncuapppppp.streamlit.app/)
 
 <center><img src="image/Bankruptcy.webp"/></center>
 
@@ -33,8 +31,7 @@ This project contains information about various risk factors related to companie
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SpidY21/Medical_Cost_Prediction)
 
 This project contains information about individuals' health, lifestyle, and demographic factors that could influence their health insurance charges. The project can be used to analyze and predict the cost of health insurance for an individual based on several key factors, such as age, sex, BMI, number of children, smoking status, and region.
-####
-[App Link](https://spidy21-medical-cost-prediction-app-aht1f2.streamlit.app/)
+#### [App Link](https://spidy21-medical-cost-prediction-app-aht1f2.streamlit.app/)
 
 <center><img src="image/health.png"/></center>
 
