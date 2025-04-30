@@ -2,6 +2,29 @@
 ---
 ## Machine learning
 
+
+### RAG Based Document Question Answering System using LlamaIndex
+
+This project is a Generative AI-powered document search engine that enables users to ask natural language queries against a collection of unstructured documents (PDFs and DOCX). It leverages LlamaIndex, OpenAI LLMs, and HuggingFace Embeddings to perform semantic search over documents.
+
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SpidY21/RAG-Question-Answering-System)
+
+<center><img src="image/rag.jpg"/></center>
+
+
+
+### Simple Chatbot using OpenRouter
+
+This is a self-project I built a simple Chatbot web app using streamlit and OpenRouter's API. The goal was to create a lightweight, interactive chat interface powered by an LLM specifically, the Mistral Tiny model.
+#### [App Link](https://yashkumarroychatbot101.streamlit.app/)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SpidY21/chatbot_101)
+
+<center><img src="image/chatbot101.png"/></center>
+
+---
+
 ### Telecome Churn Prediction
 
 The primary goal of this project is to predict customer churn—whether a customer will leave the telecom provider (churn) or continue using the service. Predicting churn allows the company to retain customers by taking proactive steps to improve their satisfaction and engagement.
